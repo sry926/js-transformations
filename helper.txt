@@ -1,0 +1,2 @@
+D:\js\js-transformations\data\codenetjs;0
+D:\js\js-transformations\data\obfuscated;1

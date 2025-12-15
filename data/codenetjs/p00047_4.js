@@ -1,0 +1,1 @@
+for(a=b=1,r='A',i=require("fs").readFileSync("/dev/stdin","utf8").split(/\n|,/),j=0;a=i[j++],b=i[j++];)r==a?r=b:r==b?r=a:0;console.log(r);

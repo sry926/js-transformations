@@ -1,0 +1,1 @@
+console.log(require("fs").readFileSync("/dev/stdin", "utf8").match(/^A?KIHA?BA?RA?$/g) ? "YES" : "NO");

@@ -1,0 +1,1 @@
+require("fs").readFileSync("/dev/stdin","utf8").trim().split('\n').some(function(i){for(n=0;+i>Math.sqrt(98*n);n++);console.log(++n)})
